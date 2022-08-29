@@ -4,7 +4,7 @@
 - [Informe Ejemplo (privado)](https://github.com/uchileFI3104B-2022B/informe-ejemplo)
 - [Precisión Numérica y Derivadas (público)](https://github.com/uchileFI3104B-2022B/demo-precision-derivada)
 - [Interpolación y Matrices (público)](https://github.com/uchileFI3104B-2022B/demo-interpolacion-algebra-lineal)
-
+- [Runge-Kutta (privado)](https://github.com/uchileFI3104B-2022B/demo-rk2)
 
 ## Tareas (privadas)
 
