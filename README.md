@@ -12,3 +12,4 @@
 - [Tarea 1](https://github.com/uchileFI3104B-2022B/01-tarea-template) : **Entrega**: 30/08/2022 22:59 hrs. Integrales Numéricas y Búsqueda de Raíces. 
 - [Tarea 2](https://github.com/uchileFI3104B-2022B/02-tarea-template) : **Entrega**: 08/09/2022 22:59 hrs. Interpolación. 
 - [Tarea 3](https://github.com/uchileFI3104B-2022B/03-tarea-template) : **Entrega**: 27/09/2022 22:59 hrs. Matrices, Ceros. 
+- [Tarea 4](https://github.com/uchileFI3104B-2022B/04-tarea-template) : **Entrega**: 05/10/2022 22:59 hrs. ODEs, RK. 
