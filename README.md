@@ -17,4 +17,4 @@
 - [Tarea 3](https://github.com/uchileFI3104B-2022B/03-tarea-template) : **Entrega**: 27/09/2022 22:59 hrs. Matrices, Ceros. 
 - [Tarea 4](https://github.com/uchileFI3104B-2022B/04-tarea-template) : **Entrega**: 05/10/2022 22:59 hrs. ODEs, RK. 
 - [Tarea 5](https://github.com/uchileFI3104B-2022B/05-tarea-template) : **Entrega**: 17/10/2022 22:59 hrs. ODEs, Verlet, Beeman.
-- [Tarea 6](https://github.com/uchileFI3104B-2022B/06-tarea-template) : **Entrega**: 26/10/2022 22:59 hrs. ODP, sobre-relajación.
+- [Tarea 6](https://github.com/uchileFI3104B-2022B/06-tarea-template) : **Entrega**: 26/10/2022 22:59 hrs. EDP, sobre-relajación.
