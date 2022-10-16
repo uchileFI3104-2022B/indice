@@ -6,7 +6,8 @@
 - [Interpolación y Matrices (público)](https://github.com/uchileFI3104B-2022B/demo-interpolacion-algebra-lineal)
 - [Runge-Kutta (privado)](https://github.com/uchileFI3104B-2022B/demo-rk2)
 - [OOP (privado)](https://github.com/uchileFI3104B-2022B/demo-oop)
-- [Sobre-relajación (privado)](https://github.com/uchileFI3104B-2022B/demo-sobre-relajacion)
+- [EDPs Elipticas, sobre-relajacion (privado)](https://github.com/uchileFI3104B-2022B/demo-sobre-relajacion)
+- [EDPs Parabolicas, Crank-Nicolson (privado)](https://github.com/uchileFI3104B-2022B/demo-crank-nicolson)
 
 ## Tareas (privadas)
 
