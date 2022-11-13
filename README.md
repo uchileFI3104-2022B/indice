@@ -8,6 +8,7 @@
 - [OOP (privado)](https://github.com/uchileFI3104B-2022B/demo-oop)
 - [EDPs Elipticas, sobre-relajacion (privado)](https://github.com/uchileFI3104B-2022B/demo-sobre-relajacion)
 - [EDPs Parabolicas, Crank-Nicolson (privado)](https://github.com/uchileFI3104B-2022B/demo-crank-nicolson)
+- [Métodos Aleatorios, Integrales de Monte Carlo (privado)](https://github.com/uchileFI3104B-2022B/demo-aleatorios)
 
 ## Tareas (privadas)
 
