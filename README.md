@@ -22,3 +22,4 @@
 - [Tarea 7](https://github.com/uchileFI3104B-2022B/07-tarea-template) : **Entrega**: 14/11/2022 22:59 hrs. EDP, Crank-Nicolson.
 - [Tarea 8](https://github.com/uchileFI3104B-2022B/08-tarea-template) : **Entrega**: 21/11/2022 22:59 hrs. MCMC, Integrales, Metrópolis.
 - [Tarea 9](https://github.com/uchileFI3104B-2022B/09-tarea-template) : **Entrega**: 28/11/2022 22:59 hrs. Modelamiento Bayesiano de Datos.
+- [Tarea 10](https://github.com/uchileFI3104B-2022B/10-tarea-template) : **Entrega**: 16/12/2022 22:59 hrs. Modelamiento Clásico de Datos.
